@@ -53,16 +53,6 @@ L'utilisation de ce `Custom Adapter` permet de découpler la logique de présent
 
 Voici un aperçu visuel des fonctionnalités de l'application :
 
-![Écran Principal / Liste des notes](Screenshot%2025-12-25%223054.png)
-*Figure 1 : Liste principale avec couleurs de priorité.*
-
-![Formulaire d'ajout](Screenshot%2025-12-25%223009.png)
-*Figure 2 : Interface de création d'une nouvelle note.*
-
-![Détails de la note](Screenshot%202025-12-25%20223048.png)
-*Figure 3 : Affichage des détails complets.*
-
-![Fonctionnalité de Capture](Screenshot%2025-12-25%223048.png)
-*Figure 4 : Module de capture d'écran / Caméra.*
+ils sont mis en root de project ici 
 
 la video sera ajouter le moment elle est uploder en youtube :)
