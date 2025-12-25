@@ -56,3 +56,5 @@ Voici un aperçu visuel des fonctionnalités de l'application :
 ils sont mis en root de project ici 
 
 la video sera ajouter le moment elle est uploder en youtube :)
+
+here it is : https://youtube.com/shorts/5Bd5IAnMIRk
